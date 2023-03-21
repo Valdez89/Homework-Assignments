@@ -1,0 +1,66 @@
+"grocerystylesheet.css"
+
+
+.container {
+    display: flex;
+    justify-content:left;
+    align-items: center;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1.5px solid rgb(65, 72, 51);
+    color: rgb(127, 79, 36);
+    background-color: rgb(194, 197, 170);
+    margin-right: 1200px;
+    margin-left: 10px;
+    padding-left: 65px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+h3 {
+    color: rgba(4, 132, 13, 0.984);
+}
+
+ul {
+    color: rgb(39, 121, 157);
+}
+
+
+#canned {
+    border: 1.5px solid rgb(65, 72, 51);
+    background-color: rgb(206, 163, 61);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 25px;
+    margin-left: 180px;
+
+}
+
+#dryGoods {
+    border: 1.5px solid rgb(65, 72, 51);
+    background-color: rgb(194, 197, 170);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 25px;
+    margin-left: 15px;
+}
+
+#vegFruits {
+    border: 1.5px solid rgb(65, 72, 51);
+    background-color: rgb(194, 197, 170);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 25px;
+    margin-left: 180px;
+}
+
+#snacks {
+    border: 1.5px solid rgb(65, 72, 51);
+    background-color: rgb(194, 197, 170);
+    padding-left: 40px;
+    padding-right: 52px;
+    padding-bottom: 25px;
+    margin-left: 15px;
+}
